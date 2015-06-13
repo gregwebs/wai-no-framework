@@ -1,0 +1,6 @@
+flags:
+  wai-no-framework: {}
+packages:
+- '.'
+extra-deps: []
+resolver: lts-2.13
